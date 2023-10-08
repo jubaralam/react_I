@@ -1,0 +1,46 @@
+01. What is React?
+ans:- React is a library that is use to make website single page.
+
+02. Who made React?
+ans:-React Made and Mantain by Facebook.
+
+03. What is Babel?
+Transpiling: Babel can transpile ES6+ code into ES5, which is widely supported by older browsers. This allows developers to use the latest language features while ensuring compatibility.
+
+04. How does Babel convert html code in React into valid code?
+
+ans:- Babel itself does not directly convert HTML code in React into valid code. HTML code in React is typically written using JSX syntax, which is a syntax extension for JavaScript that allows to write HTML-like code within JavaScript files.
+
+05. What is ReactDOM used for? Write an example?
+ReactDOM is a library in React that is used to interact with the DOM (Document Object Model). It is responsible for rendering React components to the browser and updating them when necessary.
+
+06. What are the packages that you need to import for react to work with?
+
+react: This is the core React library.
+
+react-dom: This package provides the integration with the DOM (Document Object Model).
+
+
+07. How do you add react to a web application?
+Set up a development environment:
+
+Install Node.js: React requires Node.js to run and manage dependencies.
+Install a code editor: You can use any code editor like Visual Studio Code, Atom, or Sublime Text.
+Create a new React application:
+
+Open your terminal or command prompt.
+Run the following command to create a new React application:
+npx create-react-app my-app
+
+
+08. What is React.createElement?
+React.createElement is a method in React that is used to create and return a new React element. It is the fundamental building block for creating React components.
+
+09. What are the three properties that createElement accept?
+In an HTML document, the document.createElement() method creates the HTML element specified by tagName, or an HTMLUnknownElement if tagName isn't recognized.
+
+
+10. What is the meaning of render and root?
+
+Render: In programming, "render" refers to the process of generating or displaying output based on given input or data.
+Root: In programming, "root" typically refers to the top-level directory or the starting point of a file system hierarchy. 
